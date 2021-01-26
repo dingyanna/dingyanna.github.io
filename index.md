@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-#### I am a 4th year undergraduate student in University of Toronto, majoring in Computer Science.
+#### I am a 4th-year undergraduate student at the University of Toronto, majoring in Computer Science.
 
 <!-- > This is a blockquote following a header.
 >
