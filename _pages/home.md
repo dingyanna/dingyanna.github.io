@@ -76,4 +76,4 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
 ## Personal Interests
 
 * I enjoy getting immersed in music. I earned the 10th Grade Certificate issued by *the Music Examination Committee of the Chinese Musicians’ Association* when I was 12. 
-* I also enjoy learning different languages because of the diverse culture and history embedded in those languages.
+* I also enjoy learning different languages because of the diverse culture and history embedded in those languages. 
