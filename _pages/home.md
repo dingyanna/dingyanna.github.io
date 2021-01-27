@@ -51,7 +51,7 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
     |This is an in-course scholorship awarded for high academic achievement.|
     
 
-* **Admission Scholarships**
+* **Admission Scholarship**
 
     |University of Toronto \| Sep 2017 |
     | ------------------|
@@ -64,12 +64,14 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
 
     |University of Toronto \| Summer 2020 |
     | ------------------|
-    ||
+    |During research analysis such as categorizing social media posts, we often involve different researchers to label a set of common posts. It is essential to determine inter-coder reliability in order to make the research results more convincing in this case. This project implements a standalone application to calculate different inter-rater reliability metrics (e.g., [Scott's Pi](https://en.wikipedia.org/wiki/Scott%27s_Pi)).|
 
 * **COVID-19 Related Stigma On Social Media**
 
     |University of Toronto \| Summer 2020 - Present |
     | ------------------|
-    ||
+    |This project studies the stigma, fear, and misinformation on social media related to COVID-19.|
 
 ## Personal Interests
+
+* I enjoy music in different languages such as Korean, Japanese, French, etc.
