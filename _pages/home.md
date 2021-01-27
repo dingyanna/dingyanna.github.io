@@ -10,13 +10,15 @@ modified: 2020-01-27
 
 ## About Me
 
-I am a 4th-year undergraduate student at the University of Toronto, with majors in Computer Science and Mathematics.
-
-## Experience
+I am a 4th-year undergraduate student at the University of Toronto, with majors in Computer Science and Mathematics. 
 
 ## Education
 
-### B.S.
+⋅⋅* B.Sc. in Computer Science and Mathematics (September 2017 - present)
+
+<!-- ## Experience -->
+
+## Honors
 
 ## Projects
 
