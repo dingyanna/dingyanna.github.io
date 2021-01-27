@@ -28,7 +28,7 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
     |Aug 2020 - Nov 2020|
     | ------------------|
     |Fall research stipend (valued $6000)|
-    <!-- https://www.utm.utoronto.ca/vp-research/mitacs-research-training-award -->
+    
 
 * **Department of Computer Science Undergraduate Research Award**
 
@@ -44,11 +44,12 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
     | This honor is reserved for students who obtain a cumulative GPA of 3.5 or higher at the end of the Fall/Winter or Summer session. It is awarded based on students' academic performance and it places among the top students in the Faculty.|
 
 * **The Chancellor’s Scholarship – St. Hilda’s**  
+<!-- https://www.trinity.utoronto.ca/study-arts-science/scholarships-financial-aid/in-course-scholarships/ -->
 
     |University of Toronto \| Trinity College \| 2019, 2020 |
     | ------------------|
-    |This is an in-course scholarship awarded for high academic achievement.|
-   <!-- https://www.trinity.utoronto.ca/study-arts-science/scholarships-financial-aid/in-course-scholarships/ --> 
+    |This is an in-course scholorship awarded for high academic achievement.|
+    
 
 * **Admission Scholarships**
 
