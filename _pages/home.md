@@ -10,7 +10,7 @@ modified: 2020-01-27
 
 ## About Me
 
-I am a 4th-year undergraduate student at the University of Toronto, with majors in Computer Science and Mathematics. 
+I am a 4th-year undergraduate student at the University of Toronto, with majors in Computer Science and Mathematics. My research interests revolve around Human-Computer Interaction, including Natural Language Processing and Computer Vision. I am currently working with [Prof. Syed Ishtiaque Ahmed](https://www.ishtiaque.net) and conducting study on Twitter posts related to COVID-19 stigma.
 
 ## Education
 
@@ -19,6 +19,7 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
     |University of Toronto \| Sep 2017 - Present|
     | ------------------|
     |Majors: Computer Science and Mathematics|
+    |GPA: 3.97|
 
 <!-- ## Experience -->
 
@@ -48,30 +49,31 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
 
     |University of Toronto \| Trinity College \| 2019, 2020 |
     | ------------------|
-    |This is an in-course scholorship awarded for high academic achievement.|
+    |This is an in-course scholarship awarded for students' high academic achievement.|
     
 
 * **Admission Scholarship**
 
     |University of Toronto \| Sep 2017 |
     | ------------------|
-    ||
+    |This scholarship is awarded based on students' the academic and co-curricular achievement in high school. (valued $6000)|
     
 
 ## Projects
 
 * **[Inter-coder Reliability](https://github.com/dingyanna/intercoder-reliability-app)**
 
-    |University of Toronto \| Summer 2020 |
+    |University of Toronto  \| Supervisor: [Prof. Priyank Chandra](https://www.priyankc.com) \| Summer 2020|
     | ------------------|
-    |During research analysis such as categorizing social media posts, we often involve different researchers to label a set of common posts. It is essential to determine inter-coder reliability in order to make the research results more convincing in this case. This project implements a standalone application to calculate different inter-rater reliability metrics (e.g., [Scott's Pi](https://en.wikipedia.org/wiki/Scott%27s_Pi)).|
+    |During research analysis, such as categorizing social media posts, different researchers often have to label a set of shared dataset. It is essential to determine inter-coder reliability in order to make the research results more convincing in this case. This project implements a standalone application to calculate different inter-rater reliability metrics (e.g., [Scott's Pi](https://en.wikipedia.org/wiki/Scott%27s_Pi)). Below is a demonstration of this APP's usage. ![demo](/assets/demo.mov)|
 
 * **COVID-19 Related Stigma On Social Media**
 
-    |University of Toronto \| Summer 2020 - Present |
+    |University of Toronto \| Supervisor: [Prof. Syed Ishtiaque Ahmed](https://www.ishtiaque.net) \| Summer 2020 - Present|
     | ------------------|
-    |This project studies the stigma, fear, and misinformation on social media related to COVID-19.|
+    |The COVID-19 pandemic has led to increased stigma, prejudice, and hate against people of East Asian descent living in North America and around the world. In particular, those individuals perceived to be from China or to a Chinese-heritage are frequently targeted on social media platforms such as Twitter, Facebook, and Instagram. This project studies the stigma, fear, and misinformation on social media related to COVID-19. It aims to increase public awareness of the harm and impact of stigma and reduce the spread of stigma. During the project, I collected and maintained a dataset of 650+ million tweets, including 220k potentially stigmatizing tweets with [geo-location data](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata); visualized and analyzed various statistical metrics on the previous data, including distribution of sentiment (labeled by [the BERT model](https://en.wikipedia.org/wiki/BERT_(language_model))) around the globe, as shown below. ![timeline](/assets/timeline.mov)|
 
 ## Personal Interests
 
-* I enjoy music in different languages such as Korean, Japanese, French, etc.
+* I enjoy getting immersed in music. I earned the 10th Grade Certificate issued by the Music Examination Committee of the Chinese Musicians’ Association when I was 12. 
+* I also enjoy learning different languages because of the diverse culture and history embedded in those languages.
