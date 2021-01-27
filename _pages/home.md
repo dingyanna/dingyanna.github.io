@@ -10,7 +10,7 @@ modified: 2020-01-27
 
 ## About Me
 
-I am a 4th-year undergraduate student at the University of Toronto, with majors in Computer Science and Mathematics. My research interests revolve around Human-Computer Interaction, including Natural Language Processing and Computer Vision. I am currently working with [Prof. Syed Ishtiaque Ahmed](https://www.ishtiaque.net) and conducting study on Twitter posts related to COVID-19 stigma.
+I am a 4th-year undergraduate student at the University of Toronto, with majors in Computer Science and Mathematics. My research interests revolve around Human-Computer Interaction, including Natural Language Processing and Computer Vision. I am currently working with [Prof. Syed Ishtiaque Ahmed](https://www.ishtiaque.net) and conducting a study on Twitter posts related to COVID-19 stigma.
 
 ## Education
 
@@ -19,44 +19,44 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
     |University of Toronto \| Sep 2017 - Present|
     | ------------------|
     |Majors: Computer Science and Mathematics|
-    |GPA: 3.97|
+    |GPA: 3.97/4.0|
 
 <!-- ## Experience -->
 
 ## Awards and Honors
-* **Mitacs Research Training Award**
+* **[Mitacs Research Training Award](https://www.utm.utoronto.ca/vp-research/mitacs-research-training-award)**
 
     |Aug 2020 - Nov 2020|
     | ------------------|
-    |Fall research stipend (valued $6000)|
+    |Fall research award (valued $6000)|
     
 
 * **Department of Computer Science Undergraduate Research Award**
 
     |University of Toronto \| Jun 2020 - Sep 2020|
     | ------------------|
-    |Summer research stipend (valued $6000)|
+    |Summer research award (valued $6000)|
      
 
 * **Dean’s List Scholar, Faculty of Arts and Science**
 
     | University of Toronto       \| 2018, 2019  | 
     | ------------------|
-    | This honor is reserved for students who obtain a cumulative GPA of 3.5 or higher at the end of the Fall/Winter or Summer session. It is awarded based on students' academic performance and it places among the top students in the Faculty.|
+    | This honor is reserved for students who obtain a cumulative GPA of 3.5 or higher at the end of the Fall/Winter or Summer session. It is awarded based on students’ academic performance, and it places among the top students in the Faculty.|
 
-* **The Chancellor’s Scholarship – St. Hilda’s**  
+* **[The Chancellor’s Scholarship – St. Hilda’s](https://www.trinity.utoronto.ca/study-arts-science/scholarships-financial-aid/in-course-scholarships/)**  
 <!-- https://www.trinity.utoronto.ca/study-arts-science/scholarships-financial-aid/in-course-scholarships/ -->
 
     |University of Toronto \| Trinity College \| 2019, 2020 |
     | ------------------|
-    |This is an in-course scholarship awarded for students' high academic achievement.|
+    |This in-course scholarship is awarded for students' high academic achievement.|
     
 
 * **Admission Scholarship**
 
     |University of Toronto \| Sep 2017 |
     | ------------------|
-    |This scholarship is awarded based on students' the academic and co-curricular achievement in high school. (valued $6000)|
+    |This scholarship is awarded based on students' academic and co-curricular achievement in high school.  (valued $6000)|
     
 
 ## Projects
@@ -65,7 +65,7 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
 
     |University of Toronto  \| Supervisor: [Prof. Priyank Chandra](https://www.priyankc.com) \| Summer 2020|
     | ------------------|
-    |During research analysis, such as categorizing social media posts, different researchers often have to label a set of shared dataset. It is essential to determine inter-coder reliability in order to make the research results more convincing in this case. This project implements a standalone application to calculate different inter-rater reliability metrics (e.g., [Scott's Pi](https://en.wikipedia.org/wiki/Scott%27s_Pi)). Below is a demonstration of this APP's usage. ![demo](/assets/demo.mov)|
+    |During research analysis, such as categorizing social media posts, different researchers often have to label a shared dataset. It is essential to determine inter-coder reliability in order to make the research results more convincing in this case. This project implements a standalone application to calculate different inter-rater reliability metrics (e.g., [Scott's Pi](https://en.wikipedia.org/wiki/Scott%27s_Pi)). Below is a demonstration of this APP's usage. ![demo](/assets/demo.mov)|
 
 * **COVID-19 Related Stigma On Social Media**
 
@@ -75,5 +75,5 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
 
 ## Personal Interests
 
-* I enjoy getting immersed in music. I earned the 10th Grade Certificate issued by the Music Examination Committee of the Chinese Musicians’ Association when I was 12. 
+* I enjoy getting immersed in music. I earned the 10th Grade Certificate issued by *the Music Examination Committee of the Chinese Musicians’ Association* when I was 12. 
 * I also enjoy learning different languages because of the diverse culture and history embedded in those languages.
