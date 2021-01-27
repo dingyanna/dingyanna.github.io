@@ -14,41 +14,61 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
 
 ## Education
 
-* **B.Sc. in Computer Science and Mathematics** 
-
-    * (September 2017 - Present)
+* **Honors Bachelor of Science** 
+    
+    |University of Toronto \| Sep 2017 - Present|
+    | ------------------|
+    |Majors: Computer Science and Mathematics|
 
 <!-- ## Experience -->
 
 ## Awards and Honors
 * **Mitacs Research Training Award**
-    * August 2020 - November 2020
-    * 
+
+    |Aug 2020 - Nov 2020|
+    | ------------------|
+    |Fall research stipend (valued $6000)|
+    <!-- https://www.utm.utoronto.ca/vp-research/mitacs-research-training-award -->
 
 * **Department of Computer Science Undergraduate Research Award**
-    * University of Toronto June &#124 2020 - September 2020
-    * 
+
+    |University of Toronto \| Jun 2020 - Sep 2020|
+    | ------------------|
+    |Summer research stipend (valued $6000)|
+     
 
 * **Dean’s List Scholar, Faculty of Arts and Science**
-    * University of Toronto &#124 2018, 2019
-    * This honor is reserved for students who obtain a cumulative GPA of 3.5 or higher at the end of the Fall/Winter or Summer session. It is awarded based on students' academic performance and it places among the top students in the Faculty.
 
-* **The Chancellor’s Scholarship for high academic achievement**, St. Hilda’s Fund  
-    * 2019, 2020 
-    * 
+    | University of Toronto       \| 2018, 2019  | 
+    | ------------------|
+    | This honor is reserved for students who obtain a cumulative GPA of 3.5 or higher at the end of the Fall/Winter or Summer session. It is awarded based on students' academic performance and it places among the top students in the Faculty.|
 
-* **Admission Scholarships**, University of Toronto 
-    * September 2017
-    * 
+* **The Chancellor’s Scholarship – St. Hilda’s**  
+
+    |University of Toronto \| Trinity College \| 2019, 2020 |
+    | ------------------|
+    |This is an in-course scholarship awarded for high academic achievement.|
+   <!-- https://www.trinity.utoronto.ca/study-arts-science/scholarships-financial-aid/in-course-scholarships/ --> 
+
+* **Admission Scholarships**
+
+    |University of Toronto \| Sep 2017 |
+    | ------------------|
+    ||
+    
 
 ## Projects
 
 * **[Inter-coder Reliability](https://github.com/dingyanna/intercoder-reliability-app)**
-    * Summer 2020
-    * 
+
+    |University of Toronto \| Summer 2020 |
+    | ------------------|
+    ||
 
 * **COVID-19 Related Stigma On Social Media**
-    * Summer 2020 - Present
-    * 
+
+    |University of Toronto \| Summer 2020 - Present |
+    | ------------------|
+    ||
 
 ## Personal Interests
