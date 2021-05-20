@@ -19,7 +19,7 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
     |University of Toronto \| Sep 2017 - Present|
     | ------------------|
     |Majors: Computer Science and Mathematics|
-    |GPA: 3.97/4.0|
+    |GPA: 3.92/4.0|
 
 <!-- ## Experience -->
 
@@ -61,7 +61,7 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
 
 ## Projects
 
-* **[Inter-coder Reliability](https://github.com/dingyanna/intercoder-reliability-app)**
+* **Inter-coder Reliability**
 
     |University of Toronto  \| Supervisor: [Prof. Priyank Chandra](https://www.priyankc.com) \| Summer 2020|
     | ------------------|
