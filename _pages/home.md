@@ -10,7 +10,7 @@ modified: 2020-01-27
 
 ## About Me
 
-I am a 4th-year undergraduate student at the University of Toronto, with majors in Computer Science and Mathematics. My research interests revolve around Human-Computer Interaction, including Natural Language Processing and Computer Vision. I am currently working with [Prof. Syed Ishtiaque Ahmed](https://www.ishtiaque.net) and conducting a study on Twitter posts related to COVID-19 stigma.
+I am a 4th-year undergraduate student at the University of Toronto, with majors in Computer Science and Mathematics. I will join Rensselaer Polytechnic Institute as a Ph.D. student in Fall 2021.
 
 ## Education
 
