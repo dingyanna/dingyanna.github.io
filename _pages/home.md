@@ -10,7 +10,9 @@ modified: 2020-01-27
 
 ## About Me
 
-I am a 4th-year undergraduate student at the University of Toronto, with majors in Computer Science and Mathematics. I will join Rensselaer Polytechnic Institute as a Ph.D. student in Fall 2021.
+I will join Rensselaer Polytechnic Institute as a Ph.D. student in Fall 2021.
+I received my undergraduate studies at the University of Toronto. I am honored to be included in the graduation spotlight in Computer Science department of U of T!
+You can know more about me through this Q & A on the [department website](https://web.cs.toronto.edu/news-events/news/graduation-spotlight-yanna-ding).
 
 ## Education
 
