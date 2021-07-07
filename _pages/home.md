@@ -61,7 +61,7 @@ I am a 4th-year undergraduate student at the University of Toronto, with majors 
 
 ## Projects
 
-* **Inter-coder Reliability**
+* [**Inter-coder Reliability**](https://github.com/dingyanna/intercoder-reliability)
 
     |University of Toronto  \| Supervisor: [Prof. Priyank Chandra](https://www.priyankc.com) \| Summer 2020|
     | ------------------|
