@@ -42,7 +42,7 @@ You can know more about me through this Q & A on the [department website](https:
 
 * **Dean’s List Scholar, Faculty of Arts and Science**
 
-    | University of Toronto       \| 2018, 2019  | 
+    | University of Toronto       \| 2018 - 2021  | 
     | ------------------|
     | This honor is reserved for students who obtain a cumulative GPA of 3.5 or higher at the end of the Fall/Winter or Summer session. It is awarded based on students’ academic performance, and it places among the top students in the Faculty.|
 
