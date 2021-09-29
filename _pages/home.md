@@ -5,12 +5,12 @@ excerpt: ""
 layout: single
 author_profile: true
 sitemap: true
-modified: 2020-01-27
+modified: 2021-09-28
 ---
 
 ## About Me
 
-I will join Rensselaer Polytechnic Institute as a Ph.D. student in Fall 2021.
+I will join Rensselaer Polytechnic Institute as a Ph.D. student in Spring 2022.
 I received my undergraduate studies at the University of Toronto. I am honored to be included in the graduation spotlight of the Computer Science department of U of T!
 You can know more about me through this Q & A on the [department website](https://web.cs.toronto.edu/news-events/news/graduation-spotlight-yanna-ding).
 

@@ -98,7 +98,6 @@ author:
   name             : "Yanna Ding"
   avatar           : /assets/images/3.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
-  location         : "University of Toronto"
   email            :
   links:
     - label: "Email"
