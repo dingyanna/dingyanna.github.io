@@ -12,7 +12,7 @@ modified: 2021-09-28
 <div class="author__wrapper">
   <div class="author__avatar">
     <!-- Your avatar image here -->
-    <img src="/assets/images/3.JPG" alt="Avatar">
+    <img src="/assets/images/IMG_0668.jpg" alt="Avatar">
   </div>
   
   <div class="author__content">

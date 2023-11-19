@@ -96,7 +96,7 @@ github: [metadata]
 # Site Author
 author:
   name             : "Yanna Ding"
-  avatar           : /assets/images/3.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : assets/images/IMG_0668.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
   email            : dingy6@rpi.edu
   links: 
