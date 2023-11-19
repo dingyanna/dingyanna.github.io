@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # theme: minimal-mistakes-jekyll
 # Site Settings
 locale                   : "en-US"
@@ -98,11 +98,11 @@ author:
   name             : "Yanna Ding"
   avatar           : /assets/images/3.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
-  email            :
+  email            : dingy6@rpi.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yanna.ding@mail.utoronto.ca"
+      url: "dingy6@rpi.edu"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
