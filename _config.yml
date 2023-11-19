@@ -99,10 +99,7 @@ author:
   avatar           : /assets/images/3.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
   email            : dingy6@rpi.edu
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "dingy6@rpi.edu"
+  links: 
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
