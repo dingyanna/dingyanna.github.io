@@ -2,8 +2,9 @@
 {% assign author = site.data.authors[author] | default: author %}
 
 <div itemscope itemtype="https://schema.org/Person">
-
-  {% if author.avatar %}
+  
+  <div class="author__wrapper">
+    {% if author.avatar %}
     <div class="author__avatar">
       {% if author.home %}
         <a href="{{ author.home | relative_url }}">
@@ -14,7 +15,6 @@
       {% endif %}
     </div>
   {% endif %}
-
   <div class="author__content">
     {% if author.home %}
       <a href="{{ author.home | relative_url }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
@@ -249,4 +249,7 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
+  </div> 
+
+   
 </div>

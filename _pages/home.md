@@ -8,13 +8,26 @@ sitemap: true
 modified: 2021-09-28
 ---
 
+ 
+<div class="author__wrapper">
+  <div class="author__avatar">
+    <!-- Your avatar image here -->
+    <img src="/assets/images/3.JPG" alt="Avatar">
+  </div>
+  
+  <div class="author__content">
+    <h3 class="author__name">Yanna Ding</h3>
+    <p class="author__bio">Email: dingy6@rpi.edu</p>
+    <!-- Additional info like social links -->
+  </div>
+</div> 
 ## About Me  
 I am a Computer Science PhD student at [Rensselaer Polytechnic Institute](https://science.rpi.edu/computer-science) advised by Professor [Jianxi Gao](https://www.gaojianxi.com).
 My research interests include reverse engineering network dynamics, utilizing network reduction approaches to understand complex systems in ecology, biology, etc. 
 
 I earned my B.S. in Computer Science and Mathematics from the [University of Toronto](https://www.utoronto.ca), where I had the privilege of being mentored by Professor [Ishtiaque Ahmed](https://www.ishtiaque.net). 
 
- 
+
 <!-- ## Experience -->
  
 ## Research 
