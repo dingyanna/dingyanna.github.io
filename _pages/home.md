@@ -48,15 +48,19 @@ Each node within these networks is tied to a time-series of states, driven by ei
 
     University of Toronto    Supervisor: [Prof. Priyank Chandra](https://www.priyankc.com)   Summer 2020
  
-    |During research analysis, such as categorizing social media posts, different researchers often have to label a shared dataset. It is essential to determine inter-coder reliability in order to make the research results more convincing in this case. This project implements a standalone application to calculate different inter-rater reliability metrics (e.g., [Scott's Pi](https://en.wikipedia.org/wiki/Scott%27s_Pi)). ![demo](/assets/demo.gif)|
+     During research analysis, such as categorizing social media posts, different researchers often have to label a shared dataset. It is essential to determine inter-coder reliability in order to make the research results more convincing in this case. This project implements a standalone application to calculate different inter-rater reliability metrics (e.g., [Scott's Pi](https://en.wikipedia.org/wiki/Scott%27s_Pi)). 
+
+    <img src="/assets/demo.gif" alt="Your GIF 1" width="400" />
 
 * **COVID-19 Related Stigma On Social Media**
 
-     University of Toronto  Supervisor: [Prof. Syed Ishtiaque Ahmed](https://www.ishtiaque.net) Summer 2020 - Present 
+    University of Toronto  Supervisor: [Prof. Syed Ishtiaque Ahmed](https://www.ishtiaque.net) Summer 2020 - Present 
  
-    |The COVID-19 pandemic has led to increased stigma, prejudice, and hate against people of East Asian descent living in North America and around the world. In particular, those individuals perceived to be from China or to a Chinese-heritage are frequently targeted on social media platforms such as Twitter, Facebook, and Instagram. This project studies the stigma, fear, and misinformation on social media related to COVID-19. It aims to increase public awareness of the harm and impact of stigma and reduce the spread of stigma. During the project, I collected and maintained a dataset of 650+ million tweets, including 220k potentially stigmatizing tweets with [geo-location data](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata); visualized and analyzed various statistical metrics on the previous data, including distribution of sentiment (labeled by [the BERT model](https://en.wikipedia.org/wiki/BERT_(language_model))) around the globe. ![timeline](/assets/timeline.gif)|
+    The COVID-19 pandemic has led to increased stigma, prejudice, and hate against people of East Asian descent living in North America and around the world. In particular, those individuals perceived to be from China or to a Chinese-heritage are frequently targeted on social media platforms such as Twitter, Facebook, and Instagram. This project studies the stigma, fear, and misinformation on social media related to COVID-19. It aims to increase public awareness of the harm and impact of stigma and reduce the spread of stigma. During the project, I collected and maintained a dataset of 650+ million tweets, including 220k potentially stigmatizing tweets with [geo-location data](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata); visualized and analyzed various statistical metrics on the previous data, including distribution of sentiment (labeled by [the BERT model](https://en.wikipedia.org/wiki/BERT_(language_model))) around the globe.  
+     
+    <img src="/assets/timeline.gif" alt="Your GIF" width="500" />
 
-
+    
 ## Awards 
 * 2020,  [Mitacs Research Training Award](https://www.utm.utoronto.ca/vp-research/mitacs-research-training-award), University of Toronto 
 
