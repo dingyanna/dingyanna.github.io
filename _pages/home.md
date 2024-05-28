@@ -39,7 +39,7 @@ Each node within these networks is tied to a time-series of states, driven by ei
 
 *  Efficient parameter inference in networked dynamical systems via
   steady states: A surrogate objective function approach integrating
-  mean-field and nonlinear least squares \\
+  mean-field and nonlinear least squares [[PDF](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.109.034301)]\\
   <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail\\
   Physics Review E 2024
 
