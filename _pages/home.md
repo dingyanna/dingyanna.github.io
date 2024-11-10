@@ -36,17 +36,23 @@ Social, biological, and neural networks exhibit intricate behaviors governed by 
 Each node within these networks is tied to a time-series of states, driven by either ordinary differential equations (ODEs) or partial differential equations (PDEs). These states can represent diverse phenomena such as species abundance in ecosystems, gene expression levels in regulatory networks, political opinions, or phases in oscillator networks. Understanding network dynamics is paramount across various domains in network theory. It aids in forecasting future system states, studying critical phase transitions from system survival to collapse, and exploring signal propagation patterns. Despite technological advancements granting increased accessibility to network states (e.g., two-photon calcium imaging, high-throughput sequencing technologies), deciphering the underlying dynamical system remains challenging due to  nonlinear dynamics and coupling between thousands of millions of nodes. My research focuses on developing streamlined techniques for uncovering network dynamics. I aim to create efficient methods that effectively reduce complex systems while preserving important aspects of the original dynamics.
 
 ## Publication
+* Inferring from Logits: Exploring Best Practices for Decoding-Free Generative Candidate Selection\\
+  Mingyu Derek Ma*, <u>Yanna Ding</u>*, Zijie Huang, Jianxi Gao, Yizhou Sun, Wei Wang \\
+  NeurIPS ENLSP, 2024
 
 *  Efficient parameter inference in networked dynamical systems via
   steady states: A surrogate objective function approach integrating
-  mean-field and nonlinear least squares [[PDF](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.109.034301)]\\
-  <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail\\
-  Physics Review E 2024
+  mean-field and nonlinear least squares \\
+  <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail \\
+  Physics Review E 2024\\
+  [[PDF](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.109.034301)] [[DOI](https://doi.org/10.1103/PhysRevE.109.034301)]
 
 
-* Learning Network Dynamics from Noisy Steady States\
-    <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail\
-    IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2023
+* Learning Network Dynamics from Noisy Steady States\\
+    <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail \\
+    IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2023\\
+    [[DOI](https://doi.org/10.1145/3625007.3631184)]
+
 
 
 ## Earlier Projects
