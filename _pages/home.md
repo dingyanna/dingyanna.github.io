@@ -23,17 +23,10 @@ modified: 2021-09-28
 </div> 
 ## About Me  
 I am a Computer Science PhD student at [Rensselaer Polytechnic Institute](https://science.rpi.edu/computer-science) advised by Professor [Jianxi Gao](https://www.gaojianxi.com).
-My research interests include reverse engineering network dynamics, utilizing network reduction approaches to understand complex systems in ecology, biology, etc. 
-
 I earned my B.S. in Computer Science and Mathematics from the [University of Toronto](https://www.utoronto.ca), where I had the privilege of being mentored by Professor [Ishtiaque Ahmed](https://www.ishtiaque.net). 
 
-
-<!-- ## Experience -->
  
-## Research 
- 
-Social, biological, and neural networks exhibit intricate behaviors governed by <u>coupled dynamical systems</u>. 
-Each node within these networks is tied to a time-series of states, driven by either ordinary differential equations (ODEs) or partial differential equations (PDEs). These states can represent diverse phenomena such as species abundance in ecosystems, gene expression levels in regulatory networks, political opinions, or phases in oscillator networks. Understanding network dynamics is paramount across various domains in network theory. It aids in forecasting future system states, studying critical phase transitions from system survival to collapse, and exploring signal propagation patterns. Despite technological advancements granting increased accessibility to network states (e.g., two-photon calcium imaging, high-throughput sequencing technologies), deciphering the underlying dynamical system remains challenging due to  nonlinear dynamics and coupling between thousands of millions of nodes. My research focuses on developing streamlined techniques for uncovering network dynamics. I aim to create efficient methods that effectively reduce complex systems while preserving important aspects of the original dynamics.
+I'm interested in the dynamics and learning behaviors of complex systems, spanning networked dynamical processes and modern language models. My work focuses on networked dynamical systems, including reverse engineering, network inference, and time series prediction, with applications to understanding neural network training dynamics. I am also broadly interested in exploring the behaviors of language models, such as in-context learning and task-level inference.
 
 ## Publication
 * Architecture-Aware Learning Curve Extrapolation via Graph Ordinary Differential Equation\\
