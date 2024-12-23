@@ -29,26 +29,29 @@ I earned my B.S. in Computer Science and Mathematics from the [University of Tor
 I'm interested in the dynamics and learning behaviors of complex systems, spanning networked dynamical processes and modern language models. My work focuses on networked dynamical systems, including reverse engineering, network inference, and time series prediction, with applications to understanding neural network training dynamics. I am also broadly interested in exploring the behaviors of language models, such as in-context learning and task-level inference.
 
 ## Publication
-* Architecture-Aware Learning Curve Extrapolation via Graph Ordinary Differential Equation\\
+* **EMO: Epigraph Based Multilevel Optimization For Enhancing Chain Of Thought Reasoning Capabilities**\\
+    Songtao Lu, <u>Yanna Ding</u>, Lior Horesh, Jianxi Gao, Malik Magdon-Ismail \\
+    *Accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025*
+
+
+* **Architecture-Aware Learning Curve Extrapolation via Graph Ordinary Differential Equation**\\
   <u>Yanna Ding</u>, Zijie Huang, Xiao Shou, Yihang Guo, Yizhou Sun, Jianxi Gao\\
-  AAAI, 2025
+  *Accepted by AAAI Conference on Artificial Intelligence (AAAI) 2025* \\
+  [[PDF](https://arxiv.org/abs/2412.15554)]
 
-
-* Inferring from Logits: Exploring Best Practices for Decoding-Free Generative Candidate Selection\\
+* **Inferring from Logits: Exploring Best Practices for Decoding-Free Generative Candidate Selection**\\
   Mingyu Derek Ma, <u>Yanna Ding</u>, Zijie Huang, Jianxi Gao, Yizhou Sun, Wei Wang \\
-  NeurIPS ENLSP, 2024
+  *Accepted by the 4th Efficient Natural Language and Speech Processing workshop (NeurIPS ENLSP) 2024*
 
-*  Efficient parameter inference in networked dynamical systems via
-  steady states: A surrogate objective function approach integrating
-  mean-field and nonlinear least squares \\
+*  **Efficient parameter inference in networked dynamical systems via steady states: A surrogate objective function approach integrating mean-field and nonlinear least squares** \\
   <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail \\
-  Physics Review E 2024\\
+  *Published in Phys. Rev. E 109, 034301 (2024)*\\
   [[PDF](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.109.034301)] [[DOI](https://doi.org/10.1103/PhysRevE.109.034301)]
 
 
-* Learning Network Dynamics from Noisy Steady States\\
+* **Learning Network Dynamics from Noisy Steady States**\\
     <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail \\
-    IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2023\\
+    *Published in IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) 2023*\\
     [[DOI](https://doi.org/10.1145/3625007.3631184)]
 
 
