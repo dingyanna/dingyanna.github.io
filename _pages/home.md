@@ -29,6 +29,14 @@ I earned my B.S. in Computer Science and Mathematics from the [University of Tor
 I'm interested in the dynamics and learning behaviors of complex systems, spanning networked dynamical processes and modern language models. My work focuses on networked dynamical systems, including reverse engineering, network inference, and time series prediction, with applications to understanding neural network training dynamics. I am also broadly interested in exploring the behaviors of language models, such as in-context learning and task-level inference.
 
 ## Publication
+
+* **Predicting Time Series of Networked Dynamical Systems without Knowing Topology**\\
+    <u>Yanna Ding</u>, Zijie Huang, Malik Magdon-Ismail, Jianxi Gao  
+    *arXiv* \\
+    [[PDF](http://arxiv.org/abs/2412.18734)]
+
+
+
 * **EMO: Epigraph Based Multilevel Optimization For Enhancing Chain Of Thought Reasoning Capabilities**\\
     Songtao Lu, <u>Yanna Ding</u>, Lior Horesh, Jianxi Gao, Malik Magdon-Ismail \\
     *Accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025*
