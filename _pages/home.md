@@ -22,7 +22,7 @@ modified: 2021-09-28
   </div>
 </div> 
 ## About Me  
-I am a Computer Science PhD student at [Rensselaer Polytechnic Institute](https://science.rpi.edu/computer-science) advised by Professor [Jianxi Gao](https://www.gaojianxi.com).
+I am a PhD student in Computer Science at [Rensselaer Polytechnic Institute](https://science.rpi.edu/computer-science) advised by Professor [Jianxi Gao](https://www.gaojianxi.com).
 I earned my B.S. in Computer Science and Mathematics from the [University of Toronto](https://www.utoronto.ca), where I had the privilege of being mentored by Professor [Ishtiaque Ahmed](https://www.ishtiaque.net). 
 
  
