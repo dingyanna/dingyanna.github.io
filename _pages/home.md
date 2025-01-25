@@ -29,6 +29,10 @@ I earned my B.S. in Computer Science and Mathematics from the [University of Tor
 I'm interested in the dynamics and learning behaviors of complex systems, spanning networked dynamical processes and modern language models. My work focuses on networked dynamical systems, including reverse engineering, network inference, and time series prediction, with applications to understanding neural network training dynamics. I am also broadly interested in exploring the behaviors of language models, such as in-context learning and task-level inference.
 
 ## Publication
+* **Less is More: Efficient Weight “Farcasting” with 1-Layer Neural Network**\\
+    Xiao Shou, Debarun Bhattacharjya, <u>Yanna Ding</u>, Chen Zhao, Rui Li, Jianxi Gao
+    *Accepted by International Conference on Database Systems for Advanced Applications (DASFAA) 2025* 
+ 
 
 * **Predicting Time Series of Networked Dynamical Systems without Knowing Topology**\\
     <u>Yanna Ding</u>, Zijie Huang, Malik Magdon-Ismail, Jianxi Gao  
