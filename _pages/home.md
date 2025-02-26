@@ -54,7 +54,8 @@ I'm interested in the dynamics and learning behaviors of complex systems, spanni
 * **Inferring from Logits: Exploring Best Practices for Decoding-Free Generative Candidate Selection**\\
   Mingyu Derek Ma, <u>Yanna Ding</u>, Zijie Huang, Jianxi Gao, Yizhou Sun, Wei Wang \\
   *Accepted by the 4th Efficient Natural Language and Speech Processing workshop (NeurIPS ENLSP) 2024*
-
+  [[PDE](https://arxiv.org/abs/2501.17338)]
+  
 *  **Efficient parameter inference in networked dynamical systems via steady states: A surrogate objective function approach integrating mean-field and nonlinear least squares** \\
   <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail \\
   *Published in Phys. Rev. E 109, 034301 (2024)*\\
