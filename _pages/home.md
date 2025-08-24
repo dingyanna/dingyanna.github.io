@@ -26,19 +26,9 @@ I am a PhD student in Computer Science at [Rensselaer Polytechnic Institute](htt
 I earned my B.S. in Computer Science and Mathematics from the [University of Toronto](https://www.utoronto.ca), where I had the privilege of being mentored by Professor [Ishtiaque Ahmed](https://www.ishtiaque.net). 
 
  
-I'm interested in the dynamics and learning behaviors of complex systems, spanning networked dynamical processes and modern language models. My work focuses on networked dynamical systems, including reverse engineering, network inference, and time series prediction, with applications to understanding neural network training dynamics. I am also broadly interested in exploring the behaviors of language models, such as in-context learning and task-level inference.
+My research focuses on the modeling and inference of complex systems, spanning both **networked dynamical systems** and **large language models (LLMs)**. I develop mathematical and computational frameworks, drawing on dynamical systems, probabilistic modeling, and optimization, to address problems such as system parameter estimation, neural network training dynamics, and the theoretical understanding of LLM behaviors like in-context learning.
 
-## Publications
-* **Less is More: Efficient Weight “Farcasting” with 1-Layer Neural Network**\\
-    Xiao Shou, Debarun Bhattacharjya, <u>Yanna Ding</u>, Chen Zhao, Rui Li, Jianxi Gao
-    *Accepted by International Conference on Database Systems for Advanced Applications (DASFAA) 2025* 
- 
-
-* **Predicting Time Series of Networked Dynamical Systems without Knowing Topology**\\
-    <u>Yanna Ding</u>, Zijie Huang, Malik Magdon-Ismail, Jianxi Gao  
-    *arXiv* \\
-    [[PDF](http://arxiv.org/abs/2412.18734)]
-
+## Publications and pre-prints 
 
 
 * **EMO: Epigraph Based Multilevel Optimization For Enhancing Chain Of Thought Reasoning Capabilities**\\
@@ -51,16 +41,27 @@ I'm interested in the dynamics and learning behaviors of complex systems, spanni
   *Accepted by AAAI Conference on Artificial Intelligence (AAAI) 2025* \\
   [[PDF](https://arxiv.org/abs/2412.15554)]
 
+
+* **Less is More: Efficient Weight “Farcasting” with 1-Layer Neural Network**\\
+    Xiao Shou, Debarun Bhattacharjya, <u>Yanna Ding</u>, Chen Zhao, Rui Li, Jianxi Gao
+    *Accepted by International Conference on Database Systems for Advanced Applications (DASFAA) 2025* 
+ 
+
 * **Inferring from Logits: Exploring Best Practices for Decoding-Free Generative Candidate Selection**\\
   Mingyu Derek Ma, <u>Yanna Ding</u>, Zijie Huang, Jianxi Gao, Yizhou Sun, Wei Wang \\
   *Accepted by the 4th Efficient Natural Language and Speech Processing workshop (NeurIPS ENLSP) 2024*
   [[PDE](https://arxiv.org/abs/2501.17338)]
   
+* **Predicting Time Series of Networked Dynamical Systems without Knowing Topology**\\
+    <u>Yanna Ding</u>, Zijie Huang, Malik Magdon-Ismail, Jianxi Gao  
+    *Preprint* \\
+    [[PDF](http://arxiv.org/abs/2412.18734)]
+
+
 *  **Efficient parameter inference in networked dynamical systems via steady states: A surrogate objective function approach integrating mean-field and nonlinear least squares** \\
   <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail \\
   *Published in Phys. Rev. E 109, 034301 (2024)*\\
   [[PDF](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.109.034301)] [[DOI](https://doi.org/10.1103/PhysRevE.109.034301)]
-
 
 * **Learning Network Dynamics from Noisy Steady States**\\
     <u>Yanna Ding</u>, Jianxi Gao, Malik Magdon-Ismail \\
@@ -68,7 +69,7 @@ I'm interested in the dynamics and learning behaviors of complex systems, spanni
     [[DOI](https://doi.org/10.1145/3625007.3631184)]
 
 
-
+ 
 ## Earlier Projects
 
 * [**Inter-coder Reliability**](https://github.com/dingyanna/intercoder-reliability)
