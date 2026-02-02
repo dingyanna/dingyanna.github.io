@@ -11,6 +11,7 @@
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
+        <a href="{{ '/music/' | relative_url }}" class="music-note" title="A personal clip" style="font-size: 0.9em; margin-left: 0.3em; text-decoration: none;">&#127925;</a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
